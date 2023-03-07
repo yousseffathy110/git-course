@@ -1,2 +1,2 @@
 # git-course
-this is a repo for git commands
+this's a Repo for git commands!!
