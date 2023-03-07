@@ -1,1 +1,56 @@
-hi i'm yousef fathy software engineer
+Check installed version:
+git --version
+git -v
+
+
+
+Config settings:
+git config --global user.name "Your Name"
+git config --global user.email "You@Email.com"
+git config --global init.defaultBranch main
+
+
+
+
+Help:
+git help <command>
+Example: git help config
+
+
+
+
+Download Code for a Tutorial:
+git clone <url-from-github>
+Example: git clone https://github.com/gitdagray/css_course.git
+
+
+Remove git from folder:
+rm -rf .git
+Example: When using tutorial code
+
+
+Create new repo:
+git init
+
+
+Check repo status:
+git status
+git status -s
+
+
+
+Add files to repo:
+git add <filename>
+Example: git add index.html
+Add ALL files with: git add .
+
+
+
+Commit file changes:
+git commit -m "Short message"
+Combine add & commit:
+git commit -a -m "Short message"
+
+
+
+
