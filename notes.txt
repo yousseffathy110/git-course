@@ -51,6 +51,6 @@ git commit -m "Short message"
 Combine add & commit:
 git commit -a -m "Short message"
 
-
+that's the finsh!!!
 
 
